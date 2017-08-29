@@ -45,3 +45,4 @@ Create a link tag for your CSS stylesheet in your html document. Conduct a Sanit
 ## Stretch Goals:
   - Use a **video** tag to play the video when clicked.
   - Use a pseudo selector like *hover* to add animation when clicking or hovering over a video
+
